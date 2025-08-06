@@ -16,53 +16,6 @@
   <p><strong>✨ Now with Professional UI, Admin Dashboard, and Enhanced Analytics! ✨</strong></p>
 </div>
 
-## 📸 **Application Screenshots**
-
-### 🏠 **Main Dashboard**
-<div align="center">
-  <img src="screenshots/main/01-main-dashboard.png" alt="Main Dashboard" width="800">
-  <p><em>Beautiful gradient design with professional purple/violet theme</em></p>
-</div>
-
-### 📄 **Resume Upload & Analysis**
-<div align="center">
-  <img src="screenshots/main/02-resume-upload.png" alt="Resume Upload" width="800">
-  <p><em>Easy-to-use upload interface with personal information form</em></p>
-</div>
-
-<div align="center">
-  <img src="screenshots/main/03-analysis-results.png" alt="Analysis Results" width="800">
-  <p><em>Comprehensive analysis with scoring, field prediction, and skill extraction</em></p>
-</div>
-
-### 💡 **AI-Powered Recommendations**
-<div align="center">
-  <img src="screenshots/main/04-skill-recommendations.png" alt="Skill Recommendations" width="800">
-  <p><em>Personalized skill recommendations and course suggestions</em></p>
-</div>
-
-### 👨‍💼 **Admin Dashboard**
-<div align="center">
-  <img src="screenshots/admin/05-admin-login.png" alt="Admin Login" width="600">
-  <p><em>Secure admin authentication system</em></p>
-</div>
-
-<div align="center">
-  <img src="screenshots/admin/06-admin-dashboard.png" alt="Admin Dashboard" width="800">
-  <p><em>Comprehensive admin panel with analytics and user management</em></p>
-</div>
-
-<div align="center">
-  <img src="screenshots/admin/07-admin-analytics.png" alt="Admin Analytics" width="800">
-  <p><em>Interactive charts and data visualizations</em></p>
-</div>
-
-### 💬 **Feedback System**
-<div align="center">
-  <img src="screenshots/features/09-feedback-system.png" alt="Feedback System" width="600">
-  <p><em>User feedback collection with star ratings and comments</em></p>
-</div>
-
 ## 🌟 New Features & Improvements
 
 ### 🎨 **Professional UI Redesign**
@@ -238,6 +191,55 @@ If you encounter any issues or have questions, please:
 1. Use the feedback system within the application
 2. Create an issue on GitHub
 3. Check the documentation for troubleshooting tips
+
+---
+
+## 📸 **Application Screenshots**
+
+### 🏠 **Main Dashboard**
+<div align="center">
+  <img src="screenshots/main/01-main-dashboard.png" alt="Main Dashboard" width="800">
+  <p><em>Beautiful gradient design with professional purple/violet theme</em></p>
+</div>
+
+### 📄 **Resume Upload & Analysis**
+<div align="center">
+  <img src="screenshots/main/02-resume-upload.png" alt="Resume Upload" width="800">
+  <p><em>Easy-to-use upload interface with personal information form</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/main/03-analysis-results.png" alt="Analysis Results" width="800">
+  <p><em>Comprehensive analysis with scoring, field prediction, and skill extraction</em></p>
+</div>
+
+### 💡 **AI-Powered Recommendations**
+<div align="center">
+  <img src="screenshots/main/04-skill-recommendations.png" alt="Skill Recommendations" width="800">
+  <p><em>Personalized skill recommendations and course suggestions</em></p>
+</div>
+
+### 👨‍💼 **Admin Dashboard**
+<div align="center">
+  <img src="screenshots/admin/05-admin-login.png" alt="Admin Login" width="600">
+  <p><em>Secure admin authentication system</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/admin/06-admin-dashboard.png" alt="Admin Dashboard" width="800">
+  <p><em>Comprehensive admin panel with analytics and user management</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/admin/07-admin-analytics.png" alt="Admin Analytics" width="800">
+  <p><em>Interactive charts and data visualizations</em></p>
+</div>
+
+### 💬 **Feedback System**
+<div align="center">
+  <img src="screenshots/features/09-feedback-system.png" alt="Feedback System" width="600">
+  <p><em>User feedback collection with star ratings and comments</em></p>
+</div>
 
 ---
 
